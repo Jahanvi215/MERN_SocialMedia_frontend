@@ -1,52 +1,52 @@
 export const Users = [
   {
     id:1,
-    profilePicture: "/myAssets/person/1.jpeg",
+    profilePicture: "person/1.jpeg",
     username: "Deepika Padukon",
   },
   {
     id:2,
-    profilePicture: "/myAssets/person/2.jpeg",
+    profilePicture: "person/2.jpeg",
     username: "Madhuri Dixit",
   },
   {
     id:3,
-    profilePicture: "/myAssets/person/3.jpeg",
+    profilePicture: "person/3.jpeg",
     username: "Ranveer Singh",
   },
   {
     id:4,
-    profilePicture: "/myAssets/person/4.jpeg",
+    profilePicture: "person/4.jpeg",
     username: "Allu Arjun",
   },
   {
     id:5,
-    profilePicture: "/myAssets/person/5.jpeg",
+    profilePicture: "person/5.jpeg",
     username: "Vijay Thalapathy",
   },
   {
     id:6,
-    profilePicture: "/myAssets/person/6.jpg",
+    profilePicture: "person/6.jpg",
     username: "Rashmika ",
   },
   {
     id:7,
-    profilePicture: "/myAssets/person/7.jpg",
+    profilePicture: "person/7.jpg",
     username: "Samanntha",
   },
   {
     id:8,
-    profilePicture: "/myAssets/person/8.jpg",
+    profilePicture: "person/8.jpg",
     username: "Kiara Advani",
   },
   {
     id:9,
-    profilePicture: "/myAssets/person/9.jpeg",
+    profilePicture: "person/9.jpeg",
     username: "Siddharth Malhotra",
   },
   {
     id:10,
-    profilePicture: "/myAssets/person/10.jpg",
+    profilePicture: "person/10.jpg",
     username: "Priyanka Chopra",
   },
 ];
@@ -55,7 +55,7 @@ export const Posts = [
   {
     id: 1,
     desc: "Self love ......is most importanat.❤️❤️",
-    photo: "/myAssets/post/1.jpeg",
+    photo: "post/1.jpeg",
     date: "5 mins ago",
     userId: 1,
     like: 32,
@@ -64,7 +64,7 @@ export const Posts = [
   {
     id: 2,
     desc: "Enjoying Vacation......🌈💕",
-    photo: "/myAssets/post/2.jpeg",
+    photo: "post/2.jpeg",
     date: "15 mins ago",
     userId: 2,
     like: 2,
@@ -73,7 +73,7 @@ export const Posts = [
   {
     id: 3,
     desc: "Hey Cutie....R u blushing😍",
-    photo: "/myAssets/post/3.jpeg",
+    photo: "post/3.jpeg",
     date: "1 hour ago",
     userId: 3,
     like: 61,
@@ -81,7 +81,7 @@ export const Posts = [
   },
   {
     id: 4,
-    photo: "/myAssets/post/4.jpg",
+    photo: "post/4.jpg",
     date: "4 hours ago",
     userId: 4,
     like: 7,
@@ -90,7 +90,7 @@ export const Posts = [
   {
     id: 5,
     desc: "This movie is my fvrt🤩.",
-    photo: "/myAssets/post/5.jpg",
+    photo: "post/5.jpg",
     date: "5 hours ago",
     userId: 5,
     like: 23,
@@ -98,7 +98,7 @@ export const Posts = [
   },
   {
     id: 6,
-    photo: "/myAssets/post/6.jpeg",
+    photo: "post/6.jpeg",
     date: "1 day ago",
     userId: 6,
     like: 44,
@@ -107,7 +107,7 @@ export const Posts = [
   {
     id: 7,
     desc: "Making crazy ideas in my mind...😜",
-    photo: "/myAssets/post/7.jpeg",
+    photo: "post/7.jpeg",
     date: "2 days ago",
     userId: 7,
     like: 52,
@@ -116,7 +116,7 @@ export const Posts = [
   {
     id: 8,
     desc: "Happy Me...🤭 with my happy Mine😘.",
-    photo: "/myAssets/post/8.jpeg",
+    photo: "post/8.jpeg",
     date: "3 days ago",
     userId: 8,
     like: 15,
@@ -125,7 +125,7 @@ export const Posts = [
   {
     id: 9,
     desc: "Thanks for coming in my life 🌈❤️.",
-    photo: "/myAssets/post/9.jpeg",
+    photo: "post/9.jpeg",
     date: "5 days ago",
     userId: 9,
     like: 11,
@@ -134,7 +134,7 @@ export const Posts = [
   {
     id: 10,
     desc: "Congratulations🎉🎊... to your new journey Parineeti🤗😍💕",
-    photo: "/myAssets/post/10.jpeg",
+    photo: "post/10.jpeg",
     date: "1 week ago",
     userId: 10,
     like: 104,
